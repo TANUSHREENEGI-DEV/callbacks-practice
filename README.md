@@ -165,4 +165,4 @@ Callback hell occurs when callbacks are nested inside other callbacks across mul
 Named functions resolve this by removing the nesting and allowing each function to call the next directly. Promises resolve it by allowing `.then()` chaining with centralized error handling through `.catch()`. async/await resolves it by allowing asynchronous code to be written in a linear, synchronous-like structure using `try/catch` for error handling.
 ---
 
-~*tanushree*🪼
+~tanushree🪼
